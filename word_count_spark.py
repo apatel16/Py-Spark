@@ -12,7 +12,9 @@ from operator import add
 import numpy as np
 import re
 import time
+import pyspark
 
+sc = pyspark.SparkContext(appName="App")
 
 ################ Word Count Application On Shakespeare's File #################
 def wordCount(wordListRDD):
