@@ -30,7 +30,6 @@ def wordCount(wordListRDD):
     return wordCounts
 
 
-#ToDO : Check later if performance issue
 def removePunctuation(text):
     """
     Removes punctuation, changes to lower case, and strips leading and trailing spaces.
@@ -56,46 +55,51 @@ def removePunctuation(text):
     return cleanText
 
 
-## For perf check ##
-start = time.time()
+def plot_hist(top15Words):
+    xlist = []
+    ylist = []
+    for x,y in top15Words:
+        xlist.append(x)
+        ylist.append(y)
+    
+    nums = np.arange(15)
+    plt.bar(nums, ylist)
+    plt.xticks(nums, xlist)
+    plt.show()
 
-## Load the of data file
-filename = "shakespeare.txt"
-shakespeareRDD = sc.textFile(filename, 8).map(removePunctuation)
+def main():
 
-## Print some lines of strings ##
-print('\n'.join(shakespeareRDD.zipWithIndex().map(lambda l: '{0} :{1}'.format(l[0],l[1])).take(15)))
+    start = time.time()
 
-## Split the strings into separate words ##
-shakespearWordsRDD = shakespeareRDD.flatMap(lambda s: s.split(' '))
-shakespearWordsCount = shakespearWordsRDD.count()
-print(shakespearWordsCount)
+    ## Path of data file
+    filename = "shakespeare.txt"
 
+    # Created RDD using textFile() function of pyspark
+    shakespeareRDD = sc.textFile(filename, 8).map(removePunctuation)
 
-## Remove all blanks ##
-shakespearWordsRDD2 = shakespearWordsRDD.filter(lambda y:  y != '')
-print(shakespearWordsRDD2.count())
+    ## Print some lines of strings
+    print('\n'.join(shakespeareRDD.zipWithIndex().map(lambda l: '{0} :{1}'.format(l[0],l[1])).take(15)))
 
-## Get top 20 words in descending order of their word count in corpus ##
-top15Words = wordCount(shakespearWordsRDD2).takeOrdered(15, lambda s: s[1]* -1)
-print('\n'.join(map(lambda w: '{0}: {1}'.format(w[0], w[1]), top15Words)))
+    ## Split the strings into separate words ##
+    shakespearWordsRDD = shakespeareRDD.flatMap(lambda s: s.split(' '))
+    shakespearWordsCount = shakespearWordsRDD.count()
+    print(shakespearWordsCount)
 
+    ## Remove all blanks ##
+    shakespearWordsRDD2 = shakespearWordsRDD.filter(lambda y:  y != '')
+    print(shakespearWordsRDD2.count())
 
-## Check Execution time #############################
-end = time.time()
-exec_time = end - start
-print("{0} ms".format(exec_time * 1000))
+    ## Get top 20 words in descending order of their word count in corpus ##
+    top15Words = wordCount(shakespearWordsRDD2).takeOrdered(15, lambda s: s[1]* -1)
+    print('\n'.join(map(lambda w: '{0}: {1}'.format(w[0], w[1]), top15Words)))
 
+    ## Check Execution time #############################
+    end = time.time()
+    exec_time = end - start
+    print("{0} ms".format(exec_time * 1000))
 
-##### Plot Histogram using matplotlib ###############
-xlist = []
-ylist = []
-for x,y in top15Words:
-    xlist.append(x)
-    ylist.append(y)
+    ##### Plot Histogram using matplotlib
+    plot_hist(top15Words)
 
-nums = np.arange(15)
-plt.bar(nums, ylist)
-plt.xticks(nums, xlist)
-plt.show()
-
+if __name__ == "__main__":
+    main()
