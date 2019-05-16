@@ -1,0 +1,366 @@
+17:41:16.312877 -0500	Mail	com.apple.message.domain: com.apple.coretls.client_finished.cs
+com.apple.message.signature: tls
+com.apple.message.signature2: com.apple.mail
+com.apple.message.signature3: c02f
+com.apple.message.summarize: YES
+SenderMachUUID: 24ED2828-6693-313D-9796-4BA8F4416D75
+
+17:41:16.312921 -0500	Mail	com.apple.message.domain: com.apple.coretls.client_finished.key_type
+com.apple.message.signature: tls
+com.apple.message.signature2: com.apple.mail
+com.apple.message.signature3: rsa
+com.apple.message.summarize: YES
+SenderMachUUID: 24ED2828-6693-313D-9796-4BA8F4416D75
+
+17:41:16.312985 -0500	Mail	com.apple.message.domain: com.apple.coretls.client_finished.kxSigAlg
+com.apple.message.signature: tls
+com.apple.message.signature2: com.apple.mail
+com.apple.message.signature3: 04_01
+com.apple.message.summarize: YES
+SenderMachUUID: 24ED2828-6693-313D-9796-4BA8F4416D75
+
+17:41:16.313050 -0500	Mail	com.apple.message.domain: com.apple.coretls.client_finished.curve
+com.apple.message.signature: tls
+com.apple.message.signature2: com.apple.mail
+com.apple.message.signature3: p256
+com.apple.message.summarize: YES
+SenderMachUUID: 24ED2828-6693-313D-9796-4BA8F4416D75
+
+17:41:16.313117 -0500	Mail	com.apple.message.domain: com.apple.coretls.client_finished
+com.apple.message.signature: tls
+com.apple.message.signature2: com.apple.mail
+com.apple.message.value_events: 1
+com.apple.message.value_sct_list: 1
+com.apple.message.summarize: YES
+SenderMachUUID: 24ED2828-6693-313D-9796-4BA8F4416D75
+
+17:56:14.677343 -0500	Mail	com.apple.message.domain: com.apple.coretls.client_finished.config
+com.apple.message.signature: tls
+com.apple.message.signature2: com.apple.mail
+com.apple.message.signature3: 8
+com.apple.message.summarize: YES
+SenderMachUUID: 24ED2828-6693-313D-9796-4BA8F4416D75
+
+17:56:14.677457 -0500	Mail	com.apple.message.domain: com.apple.coretls.client_finished.pv
+com.apple.message.signature: tls
+com.apple.message.signature2: com.apple.mail
+com.apple.message.signature3: 0303
+com.apple.message.summarize: YES
+SenderMachUUID: 24ED2828-6693-313D-9796-4BA8F4416D75
+
+17:56:14.677544 -0500	Mail	com.apple.message.domain: com.apple.coretls.client_finished.cs
+com.apple.message.signature: tls
+com.apple.message.signature2: com.apple.mail
+com.apple.message.signature3: c02f
+com.apple.message.summarize: YES
+SenderMachUUID: 24ED2828-6693-313D-9796-4BA8F4416D75
+
+17:56:14.677625 -0500	Mail	com.apple.message.domain: com.apple.coretls.client_finished.key_type
+com.apple.message.signature: tls
+com.apple.message.signature2: com.apple.mail
+com.apple.message.signature3: rsa
+com.apple.message.summarize: YES
+SenderMachUUID: 24ED2828-6693-313D-9796-4BA8F4416D75
+
+17:56:14.677707 -0500	Mail	com.apple.message.domain: com.apple.coretls.client_finished.kxSigAlg
+com.apple.message.signature: tls
+com.apple.message.signature2: com.apple.mail
+com.apple.message.signature3: 04_01
+com.apple.message.summarize: YES
+SenderMachUUID: 24ED2828-6693-313D-9796-4BA8F4416D75
+
+17:56:14.677916 -0500	Mail	com.apple.message.domain: com.apple.coretls.client_finished.curve
+com.apple.message.signature: tls
+com.apple.message.signature2: com.apple.mail
+com.apple.message.signature3: p256
+com.apple.message.summarize: YES
+SenderMachUUID: 24ED2828-6693-313D-9796-4BA8F4416D75
+
+17:56:14.678013 -0500	Mail	com.apple.message.domain: com.apple.coretls.client_finished
+com.apple.message.signature: tls
+com.apple.message.signature2: com.apple.mail
+com.apple.message.value_events: 1
+com.apple.message.value_sct_list: 1
+com.apple.message.summarize: YES
+SenderMachUUID: 24ED2828-6693-313D-9796-4BA8F4416D75
+
+17:56:14.782076 -0500	Mail	com.apple.message.domain: com.apple.coretls.client_finished.config
+com.apple.message.signature: tls
+com.apple.message.signature2: com.apple.mail
+com.apple.message.signature3: 8
+com.apple.message.summarize: YES
+SenderMachUUID: 24ED2828-6693-313D-9796-4BA8F4416D75
+
+17:56:14.782164 -0500	Mail	com.apple.message.domain: com.apple.coretls.client_finished.pv
+com.apple.message.signature: tls
+com.apple.message.signature2: com.apple.mail
+com.apple.message.signature3: 0303
+com.apple.message.summarize: YES
+SenderMachUUID: 24ED2828-6693-313D-9796-4BA8F4416D75
+
+17:56:14.782214 -0500	Mail	com.apple.message.domain: com.apple.coretls.client_finished.cs
+com.apple.message.signature: tls
+com.apple.message.signature2: com.apple.mail
+com.apple.message.signature3: c02f
+com.apple.message.summarize: YES
+SenderMachUUID: 24ED2828-6693-313D-9796-4BA8F4416D75
+
+17:56:14.782258 -0500	Mail	com.apple.message.domain: com.apple.coretls.client_finished.key_type
+com.apple.message.signature: tls
+com.apple.message.signature2: com.apple.mail
+com.apple.message.signature3: rsa
+com.apple.message.summarize: YES
+SenderMachUUID: 24ED2828-6693-313D-9796-4BA8F4416D75
+
+17:56:14.782323 -0500	Mail	com.apple.message.domain: com.apple.coretls.client_finished.kxSigAlg
+com.apple.message.signature: tls
+com.apple.message.signature2: com.apple.mail
+com.apple.message.signature3: 06_01
+com.apple.message.summarize: YES
+SenderMachUUID: 24ED2828-6693-313D-9796-4BA8F4416D75
+
+17:56:14.782386 -0500	Mail	com.apple.message.domain: com.apple.coretls.client_finished.curve
+com.apple.message.signature: tls
+com.apple.message.signature2: com.apple.mail
+com.apple.message.signature3: p256
+com.apple.message.summarize: YES
+SenderMachUUID: 24ED2828-6693-313D-9796-4BA8F4416D75
+
+17:56:14.782465 -0500	Mail	com.apple.message.domain: com.apple.coretls.client_finished
+com.apple.message.signature: tls
+com.apple.message.signature2: com.apple.mail
+com.apple.message.value_events: 1
+com.apple.message.summarize: YES
+SenderMachUUID: 24ED2828-6693-313D-9796-4BA8F4416D75
+
+17:56:23.739244 -0500	Google Chrome	com.apple.message.domain: com.apple.nlp.textchecking5
+com.apple.message.__source__: SPI
+com.apple.message.signature: TypingInfo
+com.apple.message.summarize: YES
+com.apple.message.value: 520
+com.apple.message.value2: 3400
+com.apple.message.value3: 220
+com.apple.message.value4: 0
+com.apple.message.value5: 0
+SenderMachUUID: 0E8C9FA5-EFAB-381D-943B-59017F337DFE
+
+17:57:51.785407 -0500	powerd	com.apple.message.domain: com.apple.darkwake.capable
+com.apple.message.hardware_support: smc_without_platform
+com.apple.message.settings: ac
+SenderMachUUID: 0CFB373C-A05E-3D5E-A0F9-E9A2037D0061
+
+17:57:53.585772 -0500	AddressBookSourceSync	com.apple.message.domain: com.apple.AddressBook.accounts.summary
+com.apple.message.summarize: YES
+com.apple.message.carddav_accounts: 2
+com.apple.message.disabled_accounts: 0
+com.apple.message.enabled_accounts: 3
+com.apple.message.ldap_accounts: 0
+com.apple.message.exchange_accounts: 0
+com.apple.message.total_accounts: 4
+SenderMachUUID: 4E85E964-B8C9-32E9-ABE3-6321281AEEA7
+
+17:57:53.649680 -0500	AddressBookSourceSync	com.apple.message.domain: com.apple.AddressBook.customPropertyDamageDetected
+com.apple.message.__source__: SPI
+com.apple.message.damaged: 0
+com.apple.message.summarize: YES
+SenderMachUUID: 4E85E964-B8C9-32E9-ABE3-6321281AEEA7
+
+17:57:53.746869 -0500	AddressBookSourceSync	com.apple.message.domain: com.apple.AddressBook.customPropertyDamageDetected
+com.apple.message.__source__: SPI
+com.apple.message.damaged: 0
+com.apple.message.summarize: YES
+SenderMachUUID: 4E85E964-B8C9-32E9-ABE3-6321281AEEA7
+
+17:57:53.759140 -0500	AddressBookSourceSync	com.apple.message.domain: com.apple.AddressBook.customPropertyDamageDetected
+com.apple.message.__source__: SPI
+com.apple.message.damaged: 0
+com.apple.message.summarize: YES
+SenderMachUUID: 4E85E964-B8C9-32E9-ABE3-6321281AEEA7
+
+17:57:53.775632 -0500	AddressBookSourceSync	com.apple.message.domain: com.apple.AddressBook.customPropertyDamageDetected
+com.apple.message.__source__: SPI
+com.apple.message.damaged: 0
+com.apple.message.summarize: YES
+SenderMachUUID: 4E85E964-B8C9-32E9-ABE3-6321281AEEA7
+
+17:57:53.789936 -0500	AddressBookSourceSync	com.apple.message.domain: com.apple.AddressBook.customPropertyDamageDetected
+com.apple.message.__source__: SPI
+com.apple.message.damaged: 0
+com.apple.message.summarize: YES
+SenderMachUUID: 4E85E964-B8C9-32E9-ABE3-6321281AEEA7
+
+17:58:05.273607 -0500	accountsd	OSActivityID: 0x800000000006da02
+com.apple.message.domain: com.apple.AddressBook.customPropertyDamageDetected
+com.apple.message.__source__: SPI
+com.apple.message.damaged: 0
+com.apple.message.summarize: YES
+SenderMachUUID: 39078892-2531-3D0F-88A2-6D83C6FBFDBB
+
+17:58:10.129081 -0500	NotificationCenter	com.apple.message.domain: com.apple.AddressBook.customPropertyDamageDetected
+com.apple.message.__source__: SPI
+com.apple.message.damaged: 0
+com.apple.message.summarize: YES
+SenderMachUUID: 8FFDF6A5-698C-3EE0-8E8F-6EFFA2A25FE8
+
+17:58:10.169841 -0500	DashboardClient	com.apple.message.domain: com.apple.AddressBook.customPropertyDamageDetected
+com.apple.message.__source__: SPI
+com.apple.message.damaged: 0
+com.apple.message.summarize: YES
+SenderMachUUID: 9BB6E7BF-4197-318C-A798-6DE472EEFB50
+
+17:58:10.169878 -0500	AppleSpell	com.apple.message.domain: com.apple.AddressBook.customPropertyDamageDetected
+com.apple.message.__source__: SPI
+com.apple.message.damaged: 0
+com.apple.message.summarize: YES
+SenderMachUUID: 85CF9E93-CD78-36C7-8076-AA132FF3B8F2
+
+17:58:10.184288 -0500	Safari	com.apple.message.domain: com.apple.AddressBook.customPropertyDamageDetected
+com.apple.message.__source__: SPI
+com.apple.message.damaged: 0
+com.apple.message.summarize: YES
+SenderMachUUID: A88277E7-E5BE-3873-89EF-DA3A8F456116
+
+17:58:10.204991 -0500	CalendarAgent	com.apple.message.domain: com.apple.AddressBook.customPropertyDamageDetected
+com.apple.message.__source__: SPI
+com.apple.message.damaged: 0
+com.apple.message.summarize: YES
+SenderMachUUID: 611CC59D-6850-3E32-BD5F-1BDD52F1E1A5
+
+17:58:10.525436 -0500	photoanalysisd	com.apple.message.domain: com.apple.AddressBook.customPropertyDamageDetected
+com.apple.message.__source__: SPI
+com.apple.message.damaged: 0
+com.apple.message.summarize: YES
+SenderMachUUID: 30FF1AA3-1A6B-3B36-B7C8-4CF4BD085CF8
+
+17:58:10.530112 -0500	CallHistoryPluginHelper	com.apple.message.domain: com.apple.AddressBook.customPropertyDamageDetected
+com.apple.message.__source__: SPI
+com.apple.message.damaged: 0
+com.apple.message.summarize: YES
+SenderMachUUID: D056C13E-07E8-3B57-AF6D-B9881995D8B9
+
+17:58:10.562109 -0500	sharingd	com.apple.message.domain: com.apple.AddressBook.customPropertyDamageDetected
+com.apple.message.__source__: SPI
+com.apple.message.damaged: 0
+com.apple.message.summarize: YES
+SenderMachUUID: CA61AFA0-2BE0-3E78-95C7-493B946AC9C8
+
+17:58:10.563508 -0500	CalNCService	com.apple.message.domain: com.apple.AddressBook.customPropertyDamageDetected
+com.apple.message.__source__: SPI
+com.apple.message.damaged: 0
+com.apple.message.summarize: YES
+SenderMachUUID: 91A2823C-BE47-3821-998C-FAB07FFFDE5C
+
+17:58:10.564784 -0500	CallHistorySyncHelper	com.apple.message.domain: com.apple.AddressBook.customPropertyDamageDetected
+com.apple.message.__source__: SPI
+com.apple.message.damaged: 0
+com.apple.message.summarize: YES
+SenderMachUUID: 820945EE-1468-3EE0-9BDB-35E7354BBA54
+
+17:58:10.573041 -0500	soagent	com.apple.message.domain: com.apple.AddressBook.customPropertyDamageDetected
+com.apple.message.__source__: SPI
+com.apple.message.damaged: 0
+com.apple.message.summarize: YES
+SenderMachUUID: 02EFC213-5E35-3823-8563-E91EA9898D79
+
+17:58:10.579938 -0500	assistantd	com.apple.message.domain: com.apple.AddressBook.customPropertyDamageDetected
+com.apple.message.__source__: SPI
+com.apple.message.damaged: 0
+com.apple.message.summarize: YES
+SenderMachUUID: 16E9CC1C-2530-39F1-8A68-4EC8CEFA16DA
+
+17:58:10.620827 -0500	routined	com.apple.message.domain: com.apple.AddressBook.customPropertyDamageDetected
+com.apple.message.__source__: SPI
+com.apple.message.damaged: 0
+com.apple.message.summarize: YES
+SenderMachUUID: CEF16907-B114-3FA5-AD23-28F12FBB1570
+
+17:58:10.676867 -0500	IMDPersistenceAgent	com.apple.message.domain: com.apple.AddressBook.customPropertyDamageDetected
+com.apple.message.__source__: SPI
+com.apple.message.damaged: 0
+com.apple.message.summarize: YES
+SenderMachUUID: A7EDBC03-DA63-34EC-A933-BB1055E0C809
+
+17:58:10.692290 -0500	Mail	com.apple.message.domain: com.apple.AddressBook.customPropertyDamageDetected
+com.apple.message.__source__: SPI
+com.apple.message.damaged: 0
+com.apple.message.summarize: YES
+SenderMachUUID: 24ED2828-6693-313D-9796-4BA8F4416D75
+
+17:58:10.700733 -0500	assistant_service	com.apple.message.domain: com.apple.AddressBook.customPropertyDamageDetected
+com.apple.message.__source__: SPI
+com.apple.message.damaged: 0
+com.apple.message.summarize: YES
+SenderMachUUID: 62BF7B2E-9D7D-36A1-AAF7-E94E3DFEE68D
+
+17:58:10.747901 -0500	contactsdonationagent	com.apple.message.domain: com.apple.AddressBook.customPropertyDamageDetected
+com.apple.message.__source__: SPI
+com.apple.message.damaged: 0
+com.apple.message.summarize: YES
+SenderMachUUID: 6321DAB9-65F9-35BE-8FC8-3DB530BE2BCB
+
+17:58:10.762017 -0500	suggestd	com.apple.message.domain: com.apple.AddressBook.customPropertyDamageDetected
+com.apple.message.__source__: SPI
+com.apple.message.damaged: 0
+com.apple.message.summarize: YES
+SenderMachUUID: 4290E1D2-B5E3-3773-B91C-634C4AB87CBF
+
+17:58:25.392646 -0500	Google Chrome	com.apple.message.domain: com.apple.nlp.textchecking5
+com.apple.message.__source__: SPI
+com.apple.message.signature: TypingInfo
+com.apple.message.summarize: YES
+com.apple.message.value: 83
+com.apple.message.value2: 360
+com.apple.message.value3: 10
+com.apple.message.value4: 0
+com.apple.message.value5: 0
+SenderMachUUID: 0E8C9FA5-EFAB-381D-943B-59017F337DFE
+
+17:59:00.017384 -0500	awdd	com.apple.message.domain: com.apple.crashreporter.writereport.awd
+com.apple.message.signature: awdd
+com.apple.message.signature2: UNBUNDLED ||| anon-osx ((null))
+com.apple.message.signature3: UNKNOWN
+com.apple.message.result: noop
+com.apple.message.summarize: YES
+SenderMachUUID: C4044FDF-1DEA-3B46-9F2A-E02A24B11BE1
+
+17:59:39.307281 -0500	UserEventAgent	com.apple.message.domain: com.apple.bluetooth.interval
+com.apple.message.power: AC Power
+com.apple.message.system: Wake
+com.apple.message.lid: Open
+com.apple.message.bluetooth: Off
+com.apple.message.wifi: 2.4 GHz
+com.apple.message.connections: 0
+com.apple.message.types: 00000000
+com.apple.message.duration: 7200
+SenderMachUUID: 59779213-EDEC-334E-B850-E1BA361F147E
+
+18:00:38.690497 -0500	Google Chrome	com.apple.message.domain: com.apple.nlp.textchecking5
+com.apple.message.__source__: SPI
+com.apple.message.signature: TypingInfo
+com.apple.message.summarize: YES
+com.apple.message.value: 4
+com.apple.message.value2: 3
+com.apple.message.value3: 3
+com.apple.message.value4: 0
+com.apple.message.value5: 0
+SenderMachUUID: 0E8C9FA5-EFAB-381D-943B-59017F337DFE
+
+18:00:58.592211 -0500	com.apple.WebKit.WebContent	com.apple.message.domain: com.apple.graphics.clients
+com.apple.message.__source__: SPI
+com.apple.message.architecture: 64
+com.apple.message.signature2: 14607.1.40.1.4
+com.apple.message.context_type: Metal
+com.apple.message.signature1: com.apple.WebKit.WebContent
+com.apple.message.signature3: Metal
+com.apple.message.intermediate_frameworks: {com.apple.QuartzCore-CA}QuartzCore,libdispatch.dylib,libsystem_pthread.dylib
+com.apple.message.summarize: YES
+SenderMachUUID: 9FE19AC8-C86E-35CC-B96E-09336542E8E7
+
+18:00:59.892381 -0500	suggestd	com.apple.message.domain: com.apple.proactive.portrait.entities_per_donation
+com.apple.message.__source__: SPI
+com.apple.message.signature: mail
+com.apple.message.signature2: nsua_loc
+com.apple.message.value: 0
+com.apple.message.summarize: YES
+SenderMachUUID: 4290E1D2-B5E3-3773-B91C-634C4AB87CBF
+
